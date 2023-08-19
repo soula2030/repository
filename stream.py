@@ -5,6 +5,7 @@ import string
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import nltk
+nltk.download('punkt')
 
 def preprocess_data(text):
     text=text.strip()
