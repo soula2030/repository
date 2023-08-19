@@ -26,12 +26,12 @@ def preprocess_data(text):
     return  text_clean
 
 def load_preprocessor():
-    with open("/Users/salmatamdi/Downloads/text_to_market/texttomarket/project/interface/vectorizer.pkl", "rb") as model_file:
+    with open("vectorizer.pkl", "rb") as model_file:
         vectorizer= pickle.load(model_file)
     return vectorizer
 
 def load_model():
-    with open("/Users/salmatamdi/Downloads/text_to_market/texttomarket/project/interface/basicmodel.pkl", "rb") as model_file:
+    with open("basicmodel.pkl", "rb") as model_file:
         model = pickle.load(model_file)
     return model
 
