@@ -6,6 +6,11 @@ import numpy as np
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from PIL import Image
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
+
+
 
 def preprocess_data(text):
     text=text.strip()
