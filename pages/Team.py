@@ -25,7 +25,7 @@ h1 {
     color: grey;
 }
 .stApp {
-    background-image: url(https://img.freepik.com/free-vector/white-background-with-hexagonal-line-pattern-design_1017-28442.jpg?w=2000&t=st=1692905849~exp=1692906449~hmac=64d1cb5d47b5d4eced08bc18a009895d3971376aca7440d5baf93dd4a7ae410b);
+    background-image: url(https://img.freepik.com/vecteurs-libre/fond-minimal-geometrique-bleu_53876-99573.jpg?w=1800&t=st=1692908352~exp=1692908952~hmac=ff6ee87e06e2b22f236d8a073571eb0cf84914e31af49b704d3bf54c3b43c8e0);
     background-size: cover;
 }
 """
