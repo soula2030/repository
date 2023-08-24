@@ -6,19 +6,19 @@ st.write("<h2>1173 DataScience Batch - Casablanca</h2>", unsafe_allow_html=True)
 col1,col2,col3=st.columns(3)
 with col1:
     st.image("images/souad.jpg",width=200)
-    st.write("SOUAD the Techwoman \U0001F44B ")
+    st.write("SOUAD The Techwoman \U0001F44B ")
     st.image("images/Rania.jpg",width=200)
-    st.write("RANIA The future engineer \U0001F44B")
+    st.write("RANIA The Future Engineer \U0001F44B")
 with col2:
     st.image("images/ahmed.jpg",width=200)
-    st.write("AHMAD the Sous-Chef \U0001F44B")
+    st.write("AHMAD The Sous-Chef \U0001F44B")
     st.image("images/salma.jpg",width=200)
-    st.write("SALMA The IT project Manager \U0001F44B")
+    st.write("SALMA The IT Project Manager \U0001F44B")
 with col3:
     st.image("images/yassir.jpg",width=200)
-    st.write("YASSIR The entrepreneur \U0001F44B")
+    st.write("YASSIR The Entrepreneur \U0001F44B")
     st.image("images/adnane.jpg",width=200)
-    st.write("ADNANE The geek \U0001F44B")
+    st.write("ADNANE The Geek \U0001F44B")
 
 CSS = """
 h1 {
