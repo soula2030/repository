@@ -7,13 +7,15 @@ col1,col2,col3=st.columns(3)
 with col1:
     st.image("images/souad.jpg",width=200)
     st.write("SOUAD The Techwoman \U0001F44B ")
-    st.image("images/Rania.jpg",width=200)
+    st.image("images/Rania.jpg",width=150)
     st.write("RANIA The Future Engineer \U0001F44B")
+
 with col2:
     st.image("images/ahmed.jpg",width=200)
     st.write("AHMAD The Sous-Chef \U0001F44B")
     st.image("images/salma.jpg",width=200)
     st.write("SALMA The IT Project Manager \U0001F44B")
+
 with col3:
     st.image("images/yassir.jpg",width=200)
     st.write("YASSIR The Entrepreneur \U0001F44B")
