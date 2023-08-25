@@ -7,7 +7,7 @@ col1,col2,col3=st.columns(3)
 with col1:
     st.image("images/souad.jpg",width=200)
     st.write("SOUAD The Techwoman \U0001F44B ")
-    st.image("images/Rania.jpg",width=150)
+    st.image("images/Rania.JPG",width=150)
     st.write("RANIA The Future Engineer \U0001F44B")
 
 with col2:
